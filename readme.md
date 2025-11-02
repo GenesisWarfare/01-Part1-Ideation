@@ -20,4 +20,5 @@ The player owns and manages a pottery studio, creating ceramic pieces for sale.
 They must follow social-media trends that influence which designs are in demand — the more viral an item becomes, the higher the profit.  
 Gameplay mixes hands-on creation (sculpting, painting, glazing) with light business management such as handling materials, pricing, and marketing.
 
----
+---<img width="1013" height="464" alt="image" src="https://github.com/user-attachments/assets/851bafa0-4264-4de8-85ce-49b3b703b637" />
+
