@@ -401,3 +401,31 @@ Story-first pacing requires clear progression hooks.
 Overuse of micro-games could stall emotional beats.
 
 Humor tone must stay balanced to avoid breaking immersion.
+
+---
+
+## 🌿 Our favorite – Ember & Bloom
+
+### 💬 Why?
+
+I chose Ember & Bloom because it perfectly balances relaxation, creativity, and meaning.
+The idea of a quiet, ash-covered world slowly coming back to life through care and patience really stood out to me — it feels chill, poetic, and hopeful.
+
+The gameplay is simple yet rewarding — exploring, growing, delivering — while the long-term goal gives emotional depth through the quest for the Mother Seed.
+It’s also perfectly achievable for a small student team, combining light systems with strong artistic direction.
+
+What makes it special to me is how every action feels meaningful: watering a plant isn’t just a task, it’s a small act of restoration. The sound, color, and light design can turn the experience into something truly immersive and meditative.
+
+### 🤖 Why Gemini Was the Best AI Collaborator
+
+Among all the AIs, Gemini stood out because of its balance between creativity and structure.
+It didn’t just describe a concept — it built a coherent world, complete with logical systems, emotional tone, and achievable scope for a student project.
+Its ideas felt human and ecological, blending storytelling with concrete mechanics like pH balance, hybridization, and daily routines that keep players engaged.
+
+Gemini managed to make the game feel both relaxing and intelligent, creating an atmosphere that encourages reflection instead of stress — which is rare in game design.
+That’s why I believe Ember & Bloom is not only the best concept, but also the most inspiring collaboration.
+
+### 🌸 Summary
+
+Ember & Bloom is a cozy, thoughtful game that blends nature and technology into a gentle, emotionally rich experience.
+A game that’s calm, inspiring, and full of quiet beauty — perfect for anyone who wants to relax and feel part of a living world.
