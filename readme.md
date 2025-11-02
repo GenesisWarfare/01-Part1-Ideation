@@ -1,24 +1,46 @@
 # 🎮 Question 1 – Life as a Game
 
-## 🧤 Banquet Waiter Game
-The player takes the role of a waiter at a large event (wedding, bar mitzvah, etc.).  
-They must serve tables, deliver dishes and drinks, and earn as many tips as possible — all while avoiding the head waiter patrolling the hall.  
-If the boss comes near, the player has to pretend to be working.  
-Timed challenges (e.g., “serve table 3 in under 30 seconds”) and risk-reward actions such as secretly drinking shots with guests make the gameplay dynamic and humorous.
+# 🎮 Game Concepts – Part 1
+
+## 🧤 Banquet Waiter Game  
+In this humorous management and stealth-action hybrid, the player takes on the role of a **banquet waiter** working at hectic events such as weddings, bar mitzvahs, and company galas.  
+The main objective is simple but frantic: **serve as many tables as possible**, deliver drinks, clear plates, and collect generous **tips** — all while avoiding the sharp eyes of the **head waiter**, who constantly patrols the hall to catch anyone slacking off.  
+
+When the boss approaches, the player must **improvise fake tasks**: pretending to polish glasses, rearrange cutlery, or serve nonexistent guests to avoid suspicion. Between missions, they can use their earnings to upgrade their gear — faster trays, quieter shoes, or charisma boosts that help them charm guests.  
+
+The gameplay mixes **timed objectives** (“deliver champagne to table 5 in under 30 seconds”) with **comedic risk-reward choices**: players can sneak drinks with guests to boost their mood (and tips) but risk getting caught and losing reputation.  
+As the story progresses, each event introduces new layouts, hazards, and quirky characters — from jealous chefs to chaotic dancers and unpredictable guests. The mix of pressure, humor, and strategy makes every shift a wild balancing act between professionalism and mischief.  
+
+**🇫🇷 Résumé :** Le joueur incarne un serveur lors d’événements festifs, doit servir rapidement, éviter le patron et accumuler des pourboires. Un mélange d’action, d’humour et de stratégie dans un cadre chaotique et amusant.  
 
 ---
 
-## 💪 Fitness Trainer Game
-The player is a gym coach who progresses by creating personalized workout plans, taking care of clients, and keeping them motivated.  
-At the same time, the trainer manages their social-media presence — posting videos, gaining followers, and attracting new clients.  
-As reputation and popularity grow, the player unlocks new equipment, special clients, and upgraded training areas.
+## 💪 Fitness Trainer Game  
+In this life-simulation and strategy blend, the player becomes a **fitness trainer** starting their career in a small, local gym. Their goal is to **build a thriving personal brand** by designing effective workout routines, training clients, and expanding their business empire.  
+
+Each client comes with unique personalities, goals, and challenges — from overconfident beginners to demanding athletes. The player must balance **physical training, emotional encouragement**, and smart scheduling to keep everyone satisfied. Success depends not only on fitness results but also on motivation, trust, and consistency.  
+
+Outside the gym, the trainer manages their **social-media profile**, posting clips of workouts, answering comments, and attracting followers. As popularity increases, sponsorships appear, bringing new equipment and special training programs.  
+The player can specialize as a **performance coach**, **rehabilitation expert**, or **fitness influencer**, unlocking new facilities like private studios or rooftop gyms.  
+
+The gameplay combines **time management**, **progress tracking**, and **light narrative choices** — players decide whether to focus on authentic coaching or influencer fame. This dual path allows for both a sincere, human story about helping people change their lives and a satirical commentary on modern fitness culture.  
+
+**🇫🇷 Résumé :** Le joueur est un coach sportif qui fait évoluer sa carrière en gérant ses clients, ses entraînements et sa popularité sur les réseaux. Entre passion, stratégie et influence, il doit bâtir sa réputation et son succès.  
 
 ---
 
-## 🏺 Pottery Studio Game
-The player owns and manages a pottery studio, creating ceramic pieces for sale.  
-They must follow social-media trends that influence which designs are in demand — the more viral an item becomes, the higher the profit.  
-Gameplay mixes hands-on creation (sculpting, painting, glazing) with light business management such as handling materials, pricing, and marketing.
+## 🏺 Pottery Studio Game  
+In this peaceful yet strategic simulation, the player becomes the proud owner of a **small pottery workshop**. Their mission: to create beautiful, handcrafted ceramic pieces, manage their studio efficiently, and transform their passion into a flourishing creative business.  
+
+Gameplay centers around **hands-on creation**: sculpting, painting, glazing, and firing pottery using intuitive mini-games inspired by real techniques. Every step affects the final product — color shades, patterns, and texture quality depend on the player’s precision and timing.  
+
+At the same time, players must pay close attention to **social-media trends** and **customer demands**. If minimalist cups are trending, simple elegance wins; if colorful vases or handmade sculptures go viral, creativity pays off. Viral posts can bring waves of online orders and prestige, but staying relevant requires experimentation and adaptability.  
+
+Beyond crafting, players handle **studio management**: ordering materials, setting prices, attending art fairs, and networking with other artists. Expanding the studio unlocks new tools like electric wheels, 3D glazing printers, and decorative mold sets.  
+
+“Pottery Studio Game” celebrates the **rhythm of creativity**, where patience, artistry, and strategy meet. The reward comes not only from financial success but also from watching your handcrafted designs take shape, become admired, and fill homes across the virtual world.  
+
+**🇫🇷 Résumé :** Le joueur dirige un atelier de poterie, crée et vend des pièces artisanales tout en suivant les tendances et en gérant son commerce. Un jeu relaxant où créativité et stratégie se rejoignent pour bâtir un studio prospère.  
 
 ---
 
