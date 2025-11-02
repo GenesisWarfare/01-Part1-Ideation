@@ -1,7 +1,5 @@
 # 🎮 Question 1 – Life as a Game
 
-# 🎮 Game Concepts – Part 1
-
 ## 🧤 Banquet Waiter Game  
 In this humorous management and stealth-action hybrid, the player takes on the role of a **banquet waiter** working at hectic events such as weddings, bar mitzvahs, and company galas.  
 The main objective is simple but frantic: **serve as many tables as possible**, deliver drinks, clear plates, and collect generous **tips** — all while avoiding the sharp eyes of the **head waiter**, who constantly patrols the hall to catch anyone slacking off.  
