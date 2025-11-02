@@ -429,3 +429,7 @@ That’s why I believe Ember & Bloom is not only the best concept, but also the 
 
 Ember & Bloom is a cozy, thoughtful game that blends nature and technology into a gentle, emotionally rich experience.
 A game that’s calm, inspiring, and full of quiet beauty — perfect for anyone who wants to relax and feel part of a living world.
+
+---
+
+*Some parts of this README (structure & layout) were assisted by ChatGPT.*
