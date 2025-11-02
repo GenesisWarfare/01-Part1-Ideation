@@ -187,7 +187,7 @@ l’arc de la **Mother Seed** et les puzzles écologiques lui donnent une identi
 ### 💬 Discussion Transcript (full)
 
 **_Me:_**  
-> Invent a new original video game idea that could realistically be developed by a small student team.Include the theme, core gameplay loop, goal,
+> Invent a new original video game idea that could realistically be developed by a small student team.Include the theme, core gameplay loop, goal, target audience, and unique element that makes it fun.
 
 **__Gemini:__**  
 > That's a fun challenge! Here is an original video game idea that would be achievable for a small student team.  
