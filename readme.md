@@ -321,11 +321,11 @@ Result: a concept with strong identity, clear learning curve, and low risk/high 
 
 In this historical strategy and defense game, the player leads a small settlement through Israel’s key historical eras — from ancient kingdoms to modern conflicts. The objective: advance through time by defending your land, winning battles, and mastering the technologies and cultures of each period.
 
-Each level mirrors a real chapter of history — from the battles of the Judges and the rise of Davidic Jerusalem to independence-era wars. Players build fortifications, command units, and research technologies inspired by each era’s advancements. Between waves, short narratives and voiceovers share historical context, immersing players in the real stories behind each struggle.
+Each level mirrors a real chapter of history — from the battles of the Judges and the rise of Davidic Jerusalem to independence-era wars. Players build fortifications, send units and use special attacks in order to win the battle.
 
 How learning mixes with gameplay
 
-Players focus on strategy and survival, but every choice reflects historical reality — unit types, weapons, city layouts, and technologies are accurate to the period. By making tactical decisions, players unintentionally absorb historical knowledge, connecting cause-and-effect in battles and understanding cultural developments without reading a textbook.
+Players focus on strategy and survival, but every choice reflects historical reality — unit types and weapons, are accurate to the period. By fighting a new enemy in new lands each time, the players learn about historicall battles that took place and their aftermath.
 
 ## 🔢 Pi Rush
 
