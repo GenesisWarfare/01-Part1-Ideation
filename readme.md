@@ -9,8 +9,6 @@ When the boss approaches, the player must **improvise fake tasks**: pretending t
 The gameplay mixes **timed objectives** (“deliver champagne to table 5 in under 30 seconds”) with **comedic risk-reward choices**: players can sneak drinks with guests to boost their mood (and tips) but risk getting caught and losing reputation.  
 As the story progresses, each event introduces new layouts, hazards, and quirky characters — from jealous chefs to chaotic dancers and unpredictable guests. The mix of pressure, humor, and strategy makes every shift a wild balancing act between professionalism and mischief.  
 
----
-
 ## 💪 Fitness Trainer Game  
 In this life-simulation and strategy blend, the player becomes a **fitness trainer** starting their career in a small, local gym. Their goal is to **build a thriving personal brand** by designing effective workout routines, training clients, and expanding their business empire.  
 
@@ -20,8 +18,6 @@ Outside the gym, the trainer manages their **social-media profile**, posting cli
 The player can specialize as a **performance coach**, **rehabilitation expert**, or **fitness influencer**, unlocking new facilities like private studios or rooftop gyms.  
 
 The gameplay combines **time management**, **progress tracking**, and **light narrative choices** — players decide whether to focus on authentic coaching or influencer fame. This dual path allows for both a sincere, human story about helping people change their lives and a satirical commentary on modern fitness culture.  
-
----
 
 ## 🏺 Pottery Studio Game  
 In this peaceful yet strategic simulation, the player becomes the proud owner of a **small pottery workshop**. Their mission: to create beautiful, handcrafted ceramic pieces, manage their studio efficiently, and transform their passion into a flourishing creative business.  
@@ -34,8 +30,6 @@ Beyond crafting, players handle **studio management**: ordering materials, setti
 
 “Pottery Studio Game” celebrates the **rhythm of creativity**, where patience, artistry, and strategy meet. The reward comes not only from financial success but also from watching your handcrafted designs take shape, become admired, and fill homes across the virtual world.  
 
----
-
 # 🤖 Question 7 – Generative AI
 
 ## Claude
@@ -47,8 +41,6 @@ past versions of the player collaborate to clean chaotic rooms.
 Claude enriched the idea with strong visual and sound feedback, comedic physics events  
 (like cats knocking items over or chain reactions), and a final “moment of calm” after each level.  
 The result feels unique, satisfying, and feasible for a small student project.
-
----
 
 ### 💬 Discussion Transcript
 
@@ -82,8 +74,6 @@ The result feels unique, satisfying, and feasible for a small student project.
 > - Physics engines (Unity, Godot) handle the heavy lifting  
 > - Can prototype with just boxes and cubes before adding polish  
 
----
-
 **🧑‍💻 Me:**  
 > Can you expand the time-rewind mechanic? How could the player control multiple versions of themselves more intuitively?
 
@@ -102,8 +92,6 @@ The result feels unique, satisfying, and feasible for a small student project.
 > Completing a room shows a cinematic replay of all timelines working together.  
 >  
 > **Why it works:** low skill floor, high skill ceiling, natural tutorial, and satisfying “choreographed” visuals.
-
----
 
 **🧑‍💻 Me:**  
 > How can we make the cleaning and chaos more fun or satisfying to watch?
@@ -132,8 +120,6 @@ The result feels unique, satisfying, and feasible for a small student project.
 > **Why It Works:** It merges “oddly satisfying” ASMR-like gameplay, emergent comedy,  
 > and puzzle-solving dopamine hits into one cohesive experience.
 
----
-
 ### ✅ Pros
 - Highly original concept with strong identity.  
 - Clear and well-explained mechanics (time scrubbing, multiple timelines).  
@@ -146,7 +132,6 @@ The result feels unique, satisfying, and feasible for a small student project.
 - Relies on visual and sensory satisfaction more than long-term progression depth.  
 
 ---
-
 
 ## 🤖 Gemini – Ember & Bloom
 
@@ -168,8 +153,6 @@ The chat deepens ecology-based puzzles (pH shift, contamination, symbionts), a l
 - The tone **very serene** may lack tension for certain player profiles.  
 
 **Overall:** A coherent and memorable concept that combines "cozy" restoration and system depth.  
-
----
 
 ### 💬 Discussion Transcript (full)
 
@@ -196,8 +179,6 @@ The chat deepens ecology-based puzzles (pH shift, contamination, symbionts), a l
 > Why it Works for a Small Team: … (Limited Scope, Focus on Systems, Stylized Art, Simple AI)  
 > Would you like to explore what the drone upgrade tree might look like, or perhaps dive deeper into the gardening puzzle mechanics?
 
----
-
 **_Me:_**  
 > Can you suggest specific examples of plant and animal types, as well as the environmental problems or “ailments” the player might need to solve? Make them creative but still grounded in real ecology.
 
@@ -211,8 +192,6 @@ The chat deepens ecology-based puzzles (pH shift, contamination, symbionts), a l
 > These puzzles force the player to think holistically…  
 > Would you like to design a specific Upgrade for the drone or the greenhouse that would help solve one of these ailments?
 
----
-
 **_Me:_**  
 > Please expand the quest and progression design. How can we structure short-term and long-term goals to give players a sense of achievement and flow?
 
@@ -223,8 +202,6 @@ The chat deepens ecology-based puzzles (pH shift, contamination, symbionts), a l
 > **Layer 3** – Mother Seed Quest (multi-stage: first clue → artifact recovery → final growth → bloom & ending).  
 > This structure ensures constant achievable tasks that feed the grand finale…  
 > Would you like to detail the specific drone and greenhouse upgrades…?
-
----
 
 **_Me:_**  
 > Can you make the game feel more addictive and fun while keeping its cozy and ecological tone? … psychology like Stardew Valley or PowerWash Simulator…
@@ -275,8 +252,6 @@ Include the theme, core gameplay loop, goal, target audience, and unique element
 > 🧩 Why It’s Realistic
 > Few locations, light puzzle mechanics, stylized art; feasible for Unity/Unreal/Godot and small student teams.
 
----
-
 **_🧑‍💻 Me_:**
 
 > Expand on the core gameplay loop. What small mechanics or mini-challenges could make each action (serving, crafting, training, etc.) more satisfying and varied without increasing scope?
@@ -293,8 +268,6 @@ Include the theme, core gameplay loop, goal, target audience, and unique element
 > Low scope: a single mini-game template (slider/QTE + contextual choices), reskinned according to the scene.
 > Meta-progression: unlock 'Lenses' (Focal, Empathy, Detail) that add clues or slow down time.e f
 
----
-
 **_🧑‍💻 Me_:**
 
 What kind of visual or sound feedback could make small tasks like cleaning, serving, or sculpting feel incredibly rewarding?
@@ -309,25 +282,17 @@ What kind of visual or sound feedback could make small tasks like cleaning, serv
 > Bad choice local desaturation + cold breath, without brutal punishment.
 > Reconciliation of a key micro-zoom scene, short orchestral breath, HUD that fades for a second.
 
----
-
 ### ✅ Pros
 
 Deep emotional core with intuitive time-as-emotion mechanic.
-
 Rewarding feedback and humor elevate everyday actions.
-
 Clear identity: emotional yet lighthearted.
-
----
 
 ### ❌ Cons
 
 Story-first pacing requires clear progression hooks.
 
 It can be a liitle bit complicate to understand the impact of the echoes.
-
----
 
 ## 🌿 Our favorite – Chrono Cleaner
 ### 💬 Why?
