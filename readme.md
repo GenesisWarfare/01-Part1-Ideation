@@ -348,7 +348,38 @@ Scoped it realistically: single-room levels, 5 ghosts max, physics handled by th
 
 Result: a concept with strong identity, clear learning curve, and low risk/high payoff for a semester project.
 
-
 ---
+
+# Question 4 - Learning with gameplay
+
+## ⚔️ Age of War: Israel Edition
+
+In this historical strategy and defense game, the player leads a small settlement through Israel’s key historical eras — from ancient kingdoms to modern conflicts. The objective: advance through time by defending your land, winning battles, and mastering the technologies and cultures of each period.
+
+Each level mirrors a real chapter of history — from the battles of the Judges and the rise of Davidic Jerusalem to independence-era wars. Players build fortifications, command units, and research technologies inspired by each era’s advancements. Between waves, short narratives and voiceovers share historical context, immersing players in the real stories behind each struggle.
+
+How learning mixes with gameplay
+
+Players focus on strategy and survival, but every choice reflects historical reality — unit types, weapons, city layouts, and technologies are accurate to the period. By making tactical decisions, players unintentionally absorb historical knowledge, connecting cause-and-effect in battles and understanding cultural developments without reading a textbook.
+
+## 🔢 Pi Climber
+
+In this fast-paced memorization game, players control a character who climbs a tower, where each platform represents the next digit of Pi. To advance, the player must enter the correct digit — one mistake sends them tumbling down, making memory and focus essential.
+
+The climb becomes more intense with faster digits, sequence twists, and distractions. Players can compete with friends, practice solo, or climb in focus mode to improve memory and pattern recognition. The concept can also expand to other sequences like vocabulary, historical dates, or scientific constants.
+
+How learning mixes with gameplay
+
+The core challenge — correctly recalling the next digit — naturally trains memory and attention. Players are rewarded with progression and high scores for accurate recall, so learning is seamlessly embedded: improving memory directly benefits gameplay, making the educational effect invisible but effective.
+
+## 🧠 Logic Architect
+
+In this creative puzzle-building game, the player becomes a Logic Architect, designing a futuristic city powered entirely by logic and problem-solving. Each building performs a function — switching signals, routing power, or controlling machines — and players must connect them correctly to make the city work.
+
+Levels gradually introduce computer logic concepts: AND, OR, NOT gates, binary signals, and loops. Challenges grow in complexity, requiring players to plan, debug, and optimize their city systems.
+
+How learning mixes with gameplay
+
+Players never receive lectures; instead, logical thinking and computational reasoning are required to succeed. Each mistake provides immediate feedback — circuits fail, machines stall, or energy stops flowing — so players learn by trial, error, and experimentation. Success in the game directly reflects understanding, embedding computer science concepts naturally into the gameplay loop.
 
 *Some parts of this README (structure & layout) were assisted by ChatGPT.*
