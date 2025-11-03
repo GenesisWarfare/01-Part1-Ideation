@@ -317,7 +317,7 @@ Result: a concept with strong identity, clear learning curve, and low risk/high 
 
 # Question 4 - Learning with gameplay
 
-## ⚔️ Age of War: Israel Edition
+## ⚔️ The Promised Hills
 
 In this historical strategy and defense game, the player leads a small settlement through Israel’s key historical eras — from ancient kingdoms to modern conflicts. The objective: advance through time by defending your land, winning battles, and mastering the technologies and cultures of each period.
 
@@ -327,7 +327,7 @@ How learning mixes with gameplay
 
 Players focus on strategy and survival, but every choice reflects historical reality — unit types, weapons, city layouts, and technologies are accurate to the period. By making tactical decisions, players unintentionally absorb historical knowledge, connecting cause-and-effect in battles and understanding cultural developments without reading a textbook.
 
-## 🔢 Pi Climber
+## 🔢 Pi Rush
 
 In this fast-paced memorization game, players launch a character into the next digit of Pi, with their score being the number of digits they managed. To advance, the player must launch at the correct digit — one mistake sends them tumbling down, making memory and focus essential.
 
