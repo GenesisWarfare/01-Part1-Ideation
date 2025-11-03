@@ -347,4 +347,6 @@ How learning mixes with gameplay
 
 Players never receive lectures; instead, logical thinking and computational reasoning are required to succeed. Each mistake provides immediate feedback — circuits fail, machines stall, or energy stops flowing — so players learn by trial, error, and experimentation. Success in the game directly reflects understanding, embedding computer science concepts naturally into the gameplay loop.
 
+---
+
 *Some parts of this README (structure & layout) were assisted by ChatGPT.*
