@@ -147,10 +147,6 @@ The result feels unique, satisfying, and feasible for a small student project.
 
 ---
 
-**Overall:** Claude demonstrates strong creativity and depth,  
-producing a rich and imaginative concept with real emotional appeal.
-
----
 
 ## 🤖 Gemini – Ember & Bloom
 
