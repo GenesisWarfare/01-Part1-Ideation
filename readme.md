@@ -364,9 +364,9 @@ Players focus on strategy and survival, but every choice reflects historical rea
 
 ## 🔢 Pi Climber
 
-In this fast-paced memorization game, players control a character who climbs a tower, where each platform represents the next digit of Pi. To advance, the player must enter the correct digit — one mistake sends them tumbling down, making memory and focus essential.
+In this fast-paced memorization game, players launch a character into the next digit of Pi, with their score being the number of digits they managed. To advance, the player must launch at the correct digit — one mistake sends them tumbling down, making memory and focus essential.
 
-The climb becomes more intense with faster digits, sequence twists, and distractions. Players can compete with friends, practice solo, or climb in focus mode to improve memory and pattern recognition. The concept can also expand to other sequences like vocabulary, historical dates, or scientific constants.
+The climb becomes more intense with more digit options and distractions. Players can compete with friends, practice solo, or climb in focus mode to improve memory and pattern recognition. The concept can also expand to other sequences like vocabulary, historical dates, or scientific constants.
 
 How learning mixes with gameplay
 
